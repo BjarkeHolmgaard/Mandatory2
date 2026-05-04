@@ -1,0 +1,17 @@
+1. Using the terminal to navigate (image in repo)
+
+2. The computer has parts that interact to compute the requests people give.
+
+3. Using databases to store data. In this case, MySQL. (image in repo)
+
+5. Select statements, joins, agrregate functions and pattern matching in MySQL. (image in repo)
+
+6. Git skills such as how to solve merge conflicts. YAML markup skills. GitHub actions.
+
+7. IaaS (Infrastructure as a Service): Leverer virtualiserede IT-ressourcer
+  PaaS (Platform as a Service): Platform med udviklingsværktøjer og databaseadministration inkl. vedligeholde af infrastruktur.
+  SaaS (Software as a Service): Fuldt færdige applikationer, der tilgås via en webbrowser på abonnementsbasis
+
+8. Azure deployment completed (image in repo)
+
+9. ACID design has the four properties: Atomicity, Consistency, Isolation, and Durability
